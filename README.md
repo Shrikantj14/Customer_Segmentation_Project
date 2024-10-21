@@ -61,7 +61,7 @@ This project demonstrates how **K-means clustering** can be used to segment cust
 
 1. Clone this repository.
    ```bash
-   git clone https://github.com/your-username/customer-segmentation-kmeans.git
+   git clone https://github.com/Shrikantj14/customer-segmentation-kmeans.git
    cd customer-segmentation-kmeans
 2. Install the required dependencies: pip install -r requirements.txt
 3. Run the Jupyter Notebook or Python script to apply the model to the dataset:
